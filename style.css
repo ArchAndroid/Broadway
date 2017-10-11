@@ -12,6 +12,10 @@ header h1, a{
 	color: white;
 }
 
+.nav{
+	font-size: 18px;
+}
+
 .ny{
 	color: white;
 	background-image: url(Resources/the-flatiron-building.png);
@@ -19,10 +23,15 @@ header h1, a{
 
 footer{
 	text-align: left;
+	color: white;
 	background-color: dimgray;
 }
 
-h1, h2, h3{
+footer p{
+	font-size: 11px;
+}
+
+h1, h2, h3, a{
 	font-weight: bold;
 }
 
